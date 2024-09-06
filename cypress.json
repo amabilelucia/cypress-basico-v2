@@ -1,5 +1,7 @@
 {
   "plugins-file" : false,
   "viewportHeight" : 880,
-  "viewportWidth" : 1280
+  "viewportWidth" : 1280,
+  "animationDistanceThreshold": 20,
+  "defaultCommandTimeout": 4000
 }
